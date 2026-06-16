@@ -1,0 +1,63 @@
+🟢 Lunarivet API — Projeto Full Stack
+
+
+Projeto full stack para uma clínica veterinária (Guarujá), foi criado e utilizado como ambiente de prática para desenvolvimento, testes e automação.
+
+Foco principal em qualidade de software, testes automatizados e validação de APIs.
+
+ Stack
+
+🟢 Backend
+Java
+Spring Boot
+Maven
+API REST
+Arquitetura em camadas
+
+🟢 Frontend
+React (JSX)
+CSS
+Consumo de API REST
+
+🟢 Qualidade & Testes
+Testes unitários (JUnit)
+Testes de integração
+Testes de endpoints REST
+Testes manuais no frontend
+Validação de fluxos end-to-end
+Preparação para automação de testes de API
+
+🟢 Práticas aplicadas
+Separação de responsabilidades (Controller / Service / Repository)
+API REST estruturada e testável
+Backend desacoplado do frontend
+Validação contínua de comportamento
+Estrutura preparada para CI/CD e automação
+
+🟢 Entregas realizadas
+API REST estruturada em Spring Boot
+Testes unitários e de integração implementados
+Testes de endpoints validados
+Frontend React com páginas de produto
+Integração parcial frontend ↔ backend
+Execução de testes manuais durante desenvolvimento
+
+🟢 Foco atual
+Refinamento do frontend
+Validação de integração completa
+Evolução de testes manuais para automação
+Estruturação de suíte de testes de API
+
+🟢 Próximos passos
+Automação de testes de API
+Expansão de cobertura de testes
+Evolução para pipeline CI/CD
+Finalização do CRUD completo
+Melhoria da camada de serviços
+
+🟢 Status
+
+Projeto em evolução com foco em QA Automation, testes de API e qualidade de software em ambiente full stack.
+
+
+https://github.com/robertocyanes/lunarivet-api
