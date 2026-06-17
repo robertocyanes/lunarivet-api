@@ -90,12 +90,12 @@ Foco principal em:
 
 ## 🟢 PRÓXIMOS PASSOS
 
-* 🚀 Automação de testes de API
-* 🚀 Expansão da cobertura de testes
-* 🚀 Evolução para pipeline CI/CD
-* 🚀 Finalização do CRUD completo
-* 🚀 Melhoria da camada de serviços
-* 🚀 Implementação de testes automatizados no Frontend
+*  Automação de testes de API
+*  Expansão da cobertura de testes
+*  Evolução para pipeline CI/CD
+*  Finalização do CRUD completo
+*  Melhoria da camada de serviços
+*  Implementação de testes automatizados no Frontend
 
 ---
 
