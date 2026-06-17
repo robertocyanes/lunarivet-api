@@ -1,17 +1,25 @@
 
 
-# 🟢 LUNARIVET API
+<div align="center">
 
-### PROJETO FULL STACK PARA CLÍNICA VETERINÁRIA
+<h1>🟢 LUNARIVET API</h1>
 
-Projeto desenvolvido como ambiente de prática para desenvolvimento, testes automatizados, validação de APIs e qualidade de software.
+<h3>PROJETO FULL STACK PARA CLÍNICA VETERINÁRIA</h3>
 
+<p>
+Projeto desenvolvido como ambiente de prática para desenvolvimento, testes automatizados,
+validação de APIs e qualidade de software.
+</p>
+
+</div>
 
 ---
 
 ## 🟢 VISÃO GERAL
 
-Projeto Full Stack para uma clínica veterinária localizada no Guarujá, criado com o objetivo de aprimorar conhecimentos em:
+Projeto Full Stack para uma clínica veterinária localizada no Guarujá, criado e utilizado como ambiente de prática para desenvolvimento, testes e automação.
+
+Foco principal em:
 
 * Desenvolvimento Back-end e Front-end
 * APIs REST
@@ -53,10 +61,10 @@ Projeto Full Stack para uma clínica veterinária localizada no Guarujá, criado
 ## 🟢 PRÁTICAS APLICADAS
 
 * Separação de Responsabilidades (Controller / Service / Repository)
-* Backend desacoplado do Frontend
 * API REST estruturada e testável
+* Backend desacoplado do Frontend
 * Validação contínua de comportamento
-* Estrutura preparada para CI/CD
+* Estrutura preparada para CI/CD e automação
 
 ---
 
@@ -82,12 +90,12 @@ Projeto Full Stack para uma clínica veterinária localizada no Guarujá, criado
 
 ## 🟢 PRÓXIMOS PASSOS
 
-*  Automação de testes de API
-*  Expansão da cobertura de testes
-*  Pipeline CI/CD
-*  Finalização do CRUD completo
-*  Melhoria da camada de serviços
-*  Implementação de testes automatizados no Frontend
+* 🚀 Automação de testes de API
+* 🚀 Expansão da cobertura de testes
+* 🚀 Evolução para pipeline CI/CD
+* 🚀 Finalização do CRUD completo
+* 🚀 Melhoria da camada de serviços
+* 🚀 Implementação de testes automatizados no Frontend
 
 ---
 
@@ -103,7 +111,27 @@ Projeto Full Stack para uma clínica veterinária localizada no Guarujá, criado
 
 ---
 
+## 🟢 OBJETIVO PROFISSIONAL
+
+Este projeto é utilizado como ambiente de estudos e prática para consolidação de conhecimentos em:
+
+* Desenvolvimento Java com Spring Boot
+* React e Integração Front-end
+* Testes Automatizados
+* APIs REST
+* Qualidade de Software
+* Automação e CI/CD
+
+---
+
 ## 🟢 REPOSITÓRIO
 
 🔗 https://github.com/robertocyanes/lunarivet-api
 
+---
+
+<div align="center">
+
+### 🐾 DESENVOLVIDO POR ROBERTO CESAR OLIVEIRA YANES
+
+</div>
