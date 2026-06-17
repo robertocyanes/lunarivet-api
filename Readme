@@ -1,22 +1,30 @@
-# 🟢 LUNARIVET API — PROJETO FULL STACK
+<div align="center">
 
-## 🟢 VISÃO GERAL
+# 🟢 LUNARIVET API
 
-Projeto Full Stack para uma clínica veterinária localizada no Guarujá, criado e utilizado como ambiente de prática para desenvolvimento, testes e automação.
+### PROJETO FULL STACK PARA CLÍNICA VETERINÁRIA
 
-O principal objetivo do projeto é aprimorar conhecimentos em:
+Projeto desenvolvido como ambiente de prática para desenvolvimento, testes automatizados, validação de APIs e qualidade de software.
 
-* Desenvolvimento Back-end e Front-end;
-* Qualidade de Software;
-* Testes Automatizados;
-* Validação de APIs REST;
-* Boas práticas de arquitetura e desenvolvimento.
+</div>
 
 ---
 
-# 🟢 STACK
+## 🟢 VISÃO GERAL
 
-## 🟢 BACKEND
+Projeto Full Stack para uma clínica veterinária localizada no Guarujá, criado com o objetivo de aprimorar conhecimentos em:
+
+* Desenvolvimento Back-end e Front-end;
+* APIs REST;
+* Qualidade de Software;
+* Testes Automatizados;
+* Boas práticas de Engenharia de Software.
+
+---
+
+## 🟢 STACK
+
+### 🟢 BACKEND
 
 * Java
 * Spring Boot
@@ -24,7 +32,7 @@ O principal objetivo do projeto é aprimorar conhecimentos em:
 * API REST
 * Arquitetura em Camadas
 
-## 🟢 FRONTEND
+### 🟢 FRONTEND
 
 * React (JSX)
 * CSS
@@ -32,59 +40,59 @@ O principal objetivo do projeto é aprimorar conhecimentos em:
 
 ---
 
-# 🟢 QUALIDADE E TESTES
+## 🟢 QUALIDADE E TESTES
 
-* Testes Unitários (JUnit)
-* Testes de Integração
-* Testes de Endpoints REST
-* Testes Manuais no Frontend
-* Validação de Fluxos End-to-End
-* Preparação para Automação de Testes de API
+* ✅ Testes Unitários (JUnit)
+* ✅ Testes de Integração
+* ✅ Testes de Endpoints REST
+* ✅ Testes Manuais no Frontend
+* ✅ Validação de Fluxos End-to-End
+* ✅ Preparação para Automação de Testes de API
 
 ---
 
-# 🟢 PRÁTICAS APLICADAS
+## 🟢 PRÁTICAS APLICADAS
 
 * Separação de Responsabilidades (Controller / Service / Repository)
-* API REST Estruturada e Testável
-* Backend Desacoplado do Frontend
-* Validação Contínua de Comportamento
-* Estrutura Preparada para CI/CD e Automação
+* Backend desacoplado do Frontend
+* API REST estruturada e testável
+* Validação contínua de comportamento
+* Estrutura preparada para CI/CD
 
 ---
 
-# 🟢 ENTREGAS REALIZADAS
+## 🟢 ENTREGAS REALIZADAS
 
-* ✅ API REST Estruturada em Spring Boot
-* ✅ Testes Unitários e de Integração Implementados
-* ✅ Testes de Endpoints Validados
-* ✅ Frontend React com Páginas de Produtos
-* ✅ Integração Parcial Frontend ↔ Backend
-* ✅ Execução de Testes Manuais Durante o Desenvolvimento
+* ✅ API REST estruturada em Spring Boot
+* ✅ Testes unitários e de integração implementados
+* ✅ Testes de endpoints validados
+* ✅ Frontend React com páginas de produtos
+* ✅ Integração parcial Frontend ↔ Backend
+* ✅ Execução de testes manuais durante o desenvolvimento
 
 ---
 
-# 🟢 FOCO ATUAL
+## 🟢 FOCO ATUAL
 
 * Refinamento do Frontend
-* Validação da Integração Completa
-* Evolução de Testes Manuais para Automação
-* Estruturação da Suíte de Testes de API
+* Validação da integração completa
+* Evolução de testes manuais para automação
+* Estruturação da suíte de testes de API
 
 ---
 
-# 🟢 PRÓXIMOS PASSOS
+## 🟢 PRÓXIMOS PASSOS
 
-* Automação de Testes de API
-* Expansão da Cobertura de Testes
-* Evolução para Pipeline CI/CD
-* Finalização do CRUD Completo
-* Melhoria da Camada de Serviços
-* Implementação de Testes Automatizados no Frontend
+*  Automação de testes de API
+*  Expansão da cobertura de testes
+*  Pipeline CI/CD
+*  Finalização do CRUD completo
+*  Melhoria da camada de serviços
+*  Implementação de testes automatizados no Frontend
 
 ---
 
-# 🟢 STATUS DO PROJETO
+## 🟢 STATUS DO PROJETO
 
 📊 Projeto em evolução com foco em:
 
@@ -92,20 +100,14 @@ O principal objetivo do projeto é aprimorar conhecimentos em:
 * Testes de API;
 * Qualidade de Software;
 * Desenvolvimento Full Stack;
-* Boas Práticas de Engenharia de Software.
+* Boas práticas de Engenharia de Software.
 
 ---
 
-# 🟢 OBJETIVO PROFISSIONAL
+## 🟢 REPOSITÓRIO
 
-Este projeto é utilizado como ambiente de estudos e prática para consolidação de conhecimentos em:
+🔗 https://github.com/robertocyanes/lunarivet-api
 
-* Desenvolvimento Java com Spring Boot;
-* React e Integração Front-end;
-* Testes Automatizados;
-* APIs REST;
-* Qualidade de Software;
-* Automação e CI/CD.
 
 ---
 
