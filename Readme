@@ -1,78 +1,115 @@
-# 🟢 Lunarivet API — Projeto Full Stack
+# 🟢 LUNARIVET API — PROJETO FULL STACK
 
-## 🚀 Visão geral
-Projeto full stack para uma clínica veterinária (Guarujá), criado e utilizado como ambiente de prática para desenvolvimento, testes e automação.
+## 🟢 VISÃO GERAL
 
-Foco principal em qualidade de software, testes automatizados e validação de APIs.
+Projeto Full Stack para uma clínica veterinária localizada no Guarujá, criado e utilizado como ambiente de prática para desenvolvimento, testes e automação.
 
----
+O principal objetivo do projeto é aprimorar conhecimentos em:
 
-## 🧱 Stack
-
-### 🟢 Backend
-- Java  
-- Spring Boot  
-- Maven  
-- API REST  
-- Arquitetura em camadas  
-
-### 🟢 Frontend
-- React (JSX)  
-- CSS  
-- Consumo de API REST  
+* Desenvolvimento Back-end e Front-end;
+* Qualidade de Software;
+* Testes Automatizados;
+* Validação de APIs REST;
+* Boas práticas de arquitetura e desenvolvimento.
 
 ---
 
-## 🧪 Qualidade & Testes
-- Testes unitários (JUnit)  
-- Testes de integração  
-- Testes de endpoints REST  
-- Testes manuais no frontend  
-- Validação de fluxos end-to-end  
-- Preparação para automação de testes de API  
+# 🟢 STACK
+
+## 🟢 BACKEND
+
+* Java
+* Spring Boot
+* Maven
+* API REST
+* Arquitetura em Camadas
+
+## 🟢 FRONTEND
+
+* React (JSX)
+* CSS
+* Consumo de API REST
 
 ---
 
-## ⚙️ Práticas aplicadas
-- Separação de responsabilidades (Controller / Service / Repository)  
-- API REST estruturada e testável  
-- Backend desacoplado do frontend  
-- Validação contínua de comportamento  
-- Estrutura preparada para CI/CD e automação  
+# 🟢 QUALIDADE E TESTES
+
+* Testes Unitários (JUnit)
+* Testes de Integração
+* Testes de Endpoints REST
+* Testes Manuais no Frontend
+* Validação de Fluxos End-to-End
+* Preparação para Automação de Testes de API
 
 ---
 
-## 📦 Entregas realizadas
-- API REST estruturada em Spring Boot  
-- Testes unitários e de integração implementados  
-- Testes de endpoints validados  
-- Frontend React com páginas de produto  
-- Integração parcial frontend ↔ backend  
-- Execução de testes manuais durante desenvolvimento  
+# 🟢 PRÁTICAS APLICADAS
+
+* Separação de Responsabilidades (Controller / Service / Repository)
+* API REST Estruturada e Testável
+* Backend Desacoplado do Frontend
+* Validação Contínua de Comportamento
+* Estrutura Preparada para CI/CD e Automação
 
 ---
 
-## 🎯 Foco atual
-- Refinamento do frontend  
-- Validação de integração completa  
-- Evolução de testes manuais para automação  
-- Estruturação de suíte de testes de API  
+# 🟢 ENTREGAS REALIZADAS
+
+* ✅ API REST Estruturada em Spring Boot
+* ✅ Testes Unitários e de Integração Implementados
+* ✅ Testes de Endpoints Validados
+* ✅ Frontend React com Páginas de Produtos
+* ✅ Integração Parcial Frontend ↔ Backend
+* ✅ Execução de Testes Manuais Durante o Desenvolvimento
 
 ---
 
-## 🔭 Próximos passos
-- Automação de testes de API  
-- Expansão de cobertura de testes  
-- Evolução para pipeline CI/CD  
-- Finalização do CRUD completo  
-- Melhoria da camada de serviços  
+# 🟢 FOCO ATUAL
+
+* Refinamento do Frontend
+* Validação da Integração Completa
+* Evolução de Testes Manuais para Automação
+* Estruturação da Suíte de Testes de API
 
 ---
 
-## 📊 Status
-Projeto em evolução com foco em **QA Automation, testes de API e qualidade de software em ambiente full stack**.
+# 🟢 PRÓXIMOS PASSOS
+
+* Automação de Testes de API
+* Expansão da Cobertura de Testes
+* Evolução para Pipeline CI/CD
+* Finalização do CRUD Completo
+* Melhoria da Camada de Serviços
+* Implementação de Testes Automatizados no Frontend
 
 ---
 
-## 🔗 Repositório
-https://github.com/robertocyanes/lunarivet-api
+# 🟢 STATUS DO PROJETO
+
+📊 Projeto em evolução com foco em:
+
+* QA Automation;
+* Testes de API;
+* Qualidade de Software;
+* Desenvolvimento Full Stack;
+* Boas Práticas de Engenharia de Software.
+
+---
+
+# 🟢 OBJETIVO PROFISSIONAL
+
+Este projeto é utilizado como ambiente de estudos e prática para consolidação de conhecimentos em:
+
+* Desenvolvimento Java com Spring Boot;
+* React e Integração Front-end;
+* Testes Automatizados;
+* APIs REST;
+* Qualidade de Software;
+* Automação e CI/CD.
+
+---
+
+# 🟢 REPOSITÓRIO
+
+🔗 https://github.com/robertocyanes/lunarivet-api
+
