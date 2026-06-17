@@ -4,7 +4,7 @@
 
 <h1>🟢 LUNARIVET API</h1>
 
-<h3>PROJETO FULL STACK PARA CLÍNICA VETERINÁRIA</h3>
+<h3>PROJETO FULL STACK PARA UMA CLÍNICA VETERINÁRIA</h3>
 
 <p>
 Projeto desenvolvido como ambiente de prática para desenvolvimento, testes automatizados,
@@ -29,7 +29,7 @@ Foco principal em:
 
 ---
 
-## 🟢 STACK
+##  STACK
 
 ### 🟢 BACKEND
 
